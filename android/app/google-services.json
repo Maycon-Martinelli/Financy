@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980319898640",
+    "project_id": "adocao-animais-app",
+    "storage_bucket": "adocao-animais-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980319898640:android:d5156febaa8511e3fa8e95",
+        "android_client_info": {
+          "package_name": "com.example.pet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKPKWjKwR3ugO9TgpT9tWyUQuorxBANY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980319898640:android:328a811c74763124fa8e95",
+        "android_client_info": {
+          "package_name": "com.maycon.adocaoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKPKWjKwR3ugO9TgpT9tWyUQuorxBANY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
