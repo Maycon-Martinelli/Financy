@@ -1,2 +1,2 @@
-# Ado-o-de-animais
-Projeto de adoção de animais de animais usando flutter
+# Aplicativo de App Financeiro com Flutter
+Projeto de App Financeiro usando flutter
